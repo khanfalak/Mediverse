@@ -1,0 +1,40 @@
+span.css-10trblm {
+text-align: center;    
+}
+
+
+h3{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(247, 71, 71));
+    font-size: 35px;
+    font-family: 'Bree Serif', serif;
+font-family: 'PT Serif', serif;
+}
+
+p{
+     font-family: 'PT Serif', serif;
+     font-size: 25px;
+}
+
+h1{
+    font-family: 'Bree Serif', serif;
+font-family: 'Bungee Spice', cursive;
+font-family: 'PT Serif', serif;
+background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(247, 71, 71));
+}
+
+
+h2{
+    color:rgb(247, 71, 71);
+    font-family: 'Bree Serif', serif;
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'PT Serif', serif;
+}
+
+li{
+    font-family: 'PT Serif', serif;
+    font-size: 30%;
+}
+
+.disclaimer{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(247, 71, 71));
+}

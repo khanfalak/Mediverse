@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+streamlit-extras = "*"
+mysql-connector-python = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "*"
+seaborn = "*"
+scipy = "*"
+pymysql = "*"
+google-auth = "*"
+transformers = "*"
+streamlit-option-menu = "*"
+plyer = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
